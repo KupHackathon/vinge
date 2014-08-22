@@ -12,7 +12,7 @@ def hello():
     return 'Hello World!'
 
 @app.route('/hello')
-def hello:
+def yello():
 	return "Hello"
 
 
